@@ -1,0 +1,1 @@
+# universal-zigbee-sensor-kicad
