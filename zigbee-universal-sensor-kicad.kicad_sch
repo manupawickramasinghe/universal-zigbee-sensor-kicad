@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "128c473d-b437-4343-8703-666e8943fc27")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 20.32 22.86)
+		(size 24.13 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c61bb67a-928d-4be4-a746-3b82f0f5545e")
+		(property "Sheetname" "wireless_module"
+			(at 20.32 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "wireless_module.kicad_sch"
+			(at 20.32 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "zigbee-universal-sensor-kicad"
+				(path "/128c473d-b437-4343-8703-666e8943fc27"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

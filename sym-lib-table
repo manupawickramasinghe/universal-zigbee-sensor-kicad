@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32h2")(type "KiCad")(uri "${KIPRJMOD}/libs/esp32h2.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32H2-Supermini")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32H2-Supermini.kicad_sym")(options "")(descr ""))
+)
